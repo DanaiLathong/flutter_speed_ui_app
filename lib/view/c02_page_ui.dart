@@ -81,7 +81,7 @@ class _C02PageUIState extends State<C02PageUI> {
                     ),
                   ),
                   
-                  hintText: '   ex: S6519410044@sau.ac.th',
+                  hintText: '   ex: S6519410022@sau.ac.th',
                   hintStyle: TextStyle(
                     color: const Color.fromARGB(255, 138, 135, 135),
                   ),
