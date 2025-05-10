@@ -79,7 +79,7 @@ class _C03PageUIState extends State<C03PageUI> {
                     ),
                   ),
                   
-                  hintText: '   ex: Sorawit Sangboondee',
+                  hintText: '   ex: Danai lathong',
                   hintStyle: TextStyle(
                     color: const Color.fromARGB(255, 138, 135, 135),
                   ),
